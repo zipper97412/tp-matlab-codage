@@ -1,3 +1,6 @@
+% Notre fonction va calculer pour differentes valeur de f
+% compris entre 0 et 1 le pb et pB correspondant
+
 G = [1 0 0 0 1 1 0 ; 0 1 0 0 1 0 1 ; 0 0 1 0 0 1 1 ; 0 0 0 1 1 1 1];
 Ht = [1 1 0 ; 1 0 1 ; 0 1 1 ; 1 1 1 ; 1 0 0 ; 0 1 0 ; 0 0 1]; %transposé de H
 iB = 0; %compteur d'erreur bloc
